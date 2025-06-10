@@ -34,4 +34,4 @@ This project is shared for academic and research purposes. Please cite the assoc
 
 Paper:  Prediction of pull-out behavior of timber glued-in glass fiber reinforced polymer and steel rods under various environmental conditions based on ANN and GEP models
 
-DOI: https://doi.org/10.1016/j.istruc.2023.105173 
+DOI: https://doi.org/10.1016/j.cscm.2023.e02842
